@@ -1,0 +1,271 @@
+{
+  "hero": {
+    "name": "Divya Sri Rajamahendravarapu",
+    "heading": "Hay! I’m Divya",
+    "typingText": [
+      "I'm a Designer",
+      1500,
+      "I'm a Developer",
+      1500
+    ],
+    "description": "Crafting seamless user experiences and robust backend systems. Turning complex ideas into functional, beautiful, and scalable solutions.",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-solid:envelope",
+      "iconBgClass": "gmail",
+      "href": "mailto:rajamahendravarapudivyasri29@gmail.com"
+    },
+    {
+      "icon": "fa-brands:microsoft",
+      "iconBgClass": "outlook",
+      "href": "mailto:rajamahendravarapudivyasri29@outlook.com"
+    },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/rajamahendravarapu-divya-sri-5a590b259/"
+    }
+  ],
+  "brands": [
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/pp.png",
+    "miniTitle": "About Me",
+    "title": "I AM AVAILABLE FOR <span>FULL-STACK DEVELOPMENT</span> PROJECTS",
+    "description": "I am a motivated and detail-oriented Full Stack Developer with a strong foundation in both front-end and back-end technologies. I am passionate about transforming ideas into functional and scalable web applications. As a fresher, I bring a fresh perspective, enthusiasm, and a commitment to learning and delivering impactful solutions.",
+    "funfacts": [
+      {
+        "title": "Technologies Explored",
+        "number": 5
+      },
+      {
+        "title": "Projects Completed",
+        "number": 10
+      },
+      {
+        "title": "Certifications Earned",
+        "number": 15
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/popup-project-1.jpg",
+        "title": "GPS Tracking",
+        "subTitle": "Web Design",
+        "details": {
+          "title": "GPS Tracking Website for College Transportation",
+          "description": "This project is a GPS tracking system designed to optimize college transportation. It includes features such as live bus tracking, FindMyBus functionality, PinMyBus for bus locations, a complaint system, and detailed bus information.",
+          "type": "Website",
+          "langages": "React, CSS, JavaScript",
+          "platform": "Custom Web Application"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-2.png",
+        "title": "Veda Website",
+        "subTitle": "Web Design",
+        "details": {
+          "title": "Official Website for Veda College Event Management",
+          "description": "This project is the official website for Veda College, designed to manage over 20+ activities during the college event. It integrates real-time registration, event tracking, and participant management. The platform supports streamlined event organization for 1,000+ participants.",
+          "type": "Website",
+          "langages": "React, CSS, JavaScript",
+          "url": "https://adityauniversity.in/veda2024"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-3.png",
+        "title": "Grid Game",
+        "subTitle": "Web Design",
+        "details": {
+            "title": "Grid Movement Game",
+            "description": "This game features a grid where players control a character (a child wearing a helmet) to navigate through obstacles (dogs) and reach the target (a house). Players can move the character using directional buttons (TOP, DOWN, LEFT, RIGHT). The game is styled with vibrant gradients and glowing button effects for an immersive experience.",
+            "type": "Game",
+            "langages": "HTML, CSS, JS",
+            "platform": "Web"
+        }
+      },
+      {
+        "thumbUrl": "/images/traveltale.jpg",
+        "title": "Travel Tale",
+        "subTitle": "Tourism Website",
+        "details": {
+          "title": "Explore France with Travel Tale",
+          "description": "Travel Tale is a tourism website that allows users to explore France based on various categories and seasons. Whether you're looking for historical landmarks, scenic landscapes, cultural experiences, or seasonal festivities, Travel Tale provides a well-structured guide to make your journey unforgettable.",
+          "type": "Website",
+          "langages": "HTML, CSS, JS"
+        }
+      }
+      
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "CERTIFICATES",
+      "title": "Design <span>services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/service-01.jpg",
+        "title": "Website Design",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "icon": "bi:brush-fill",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-02.jpg",
+        "title": "Website Design",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "icon": "bi:code-square",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "/images/service-03.jpg",
+        "title": "SEO Marketing",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "icon": "bi:speedometer2",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-04.jpg",
+        "title": "Graphic Design",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "icon": "bi:palette",
+        "ratings": 5
+      }
+    ]
+  },
+  
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Certifications",
+      "title": "My <span>Certifications</span>"
+    },
+    "allExperience": [
+      {
+        
+        "companyTitle": "IT Specialist",
+        "companyDescription": "HTML AND CSS "
+      },
+      {
+        
+        "companyTitle": "Oracle Academy",
+        "companyDescription": "Java Foundations "
+      },
+      {
+        
+        "companyTitle": "IT Specialist",
+        "companyDescription": "Python "
+      },
+      {
+        
+        "companyTitle": "Hackerrank",
+        "companyDescription": "Javascript(Basic)"
+      },
+      {
+        
+        "companyTitle": "Red Hat",
+        "companyDescription": "RHCSA "
+      },
+      {
+       
+        "companyTitle": "Cisco",
+        "companyDescription": "CCNA "
+      },
+      {
+        "companyTitle": "Cisco",
+        "companyDescription": "C "
+      },
+      {
+        
+        "companyTitle": "NPTEL",
+        "companyDescription": "DBMS "
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>8,000+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-1.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-2.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-3.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Build Something Great Together",
+      "subTitle": "Always open to exciting collaborations and opportunities. Feel free to reach out and let’s turn ideas into impactful projects."
+    },
+    "contactImg": "/images/contact-us.jpg",
+    "contactInfo": [
+      {
+        "title": "Write an e-mail",
+        "email": "rajamahendravarapudivyasri29@gmail.com"
+      },
+      {
+        "title": "write an e-mail",
+        "tel": "+91 6302371903"
+      }
+    ]
+  }
+}
